@@ -1,4 +1,5 @@
 # AngularJS2withTS
+
 To start the sample app:
 1. npm install to install packages listed in package.json
 2. Install typings folder: npm run typings install ( if typings directory does not show up)
